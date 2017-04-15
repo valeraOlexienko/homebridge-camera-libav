@@ -35,3 +35,7 @@ We have started collecting tested configurations in the wiki, so please before r
 
 https://github.com/KhaosT/homebridge-camera-ffmpeg/wiki
 
+-----
+
+libav-tools tools used instead of pure ffmpeg
+
